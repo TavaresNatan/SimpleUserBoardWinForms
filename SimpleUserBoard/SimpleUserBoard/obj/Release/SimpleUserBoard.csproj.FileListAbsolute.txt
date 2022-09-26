@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\ForGitHub\SimpleUserBoard\SimpleUserBoard\bin\Release\SimpleUserBoard.exe.config
+C:\Users\user\Desktop\ForGitHub\SimpleUserBoard\SimpleUserBoard\bin\Release\SimpleUserBoard.exe
+C:\Users\user\Desktop\ForGitHub\SimpleUserBoard\SimpleUserBoard\bin\Release\SimpleUserBoard.pdb
+C:\Users\user\Desktop\ForGitHub\SimpleUserBoard\SimpleUserBoard\obj\Release\SimpleUserBoard.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ForGitHub\SimpleUserBoard\SimpleUserBoard\obj\Release\SimpleUserBoard.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\ForGitHub\SimpleUserBoard\SimpleUserBoard\obj\Release\SimpleUserBoard.Main.resources
+C:\Users\user\Desktop\ForGitHub\SimpleUserBoard\SimpleUserBoard\obj\Release\SimpleUserBoard.Options.resources
+C:\Users\user\Desktop\ForGitHub\SimpleUserBoard\SimpleUserBoard\obj\Release\SimpleUserBoard.Properties.Resources.resources
+C:\Users\user\Desktop\ForGitHub\SimpleUserBoard\SimpleUserBoard\obj\Release\SimpleUserBoard.TestScreen.resources
+C:\Users\user\Desktop\ForGitHub\SimpleUserBoard\SimpleUserBoard\obj\Release\SimpleUserBoard.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ForGitHub\SimpleUserBoard\SimpleUserBoard\obj\Release\SimpleUserBoard.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ForGitHub\SimpleUserBoard\SimpleUserBoard\obj\Release\SimpleUserBoard.exe
+C:\Users\user\Desktop\ForGitHub\SimpleUserBoard\SimpleUserBoard\obj\Release\SimpleUserBoard.pdb
